@@ -1,68 +1,50 @@
-# Hi, I'm Sharmin Khatun 👋
+# Hi, I'm Sharmin Nahar 👋
 
-### Aspiring Software QA Engineer
+## 👩‍💻 Aspiring SQA Engineer
 
-I'm an aspiring Software QA Engineer interested in ensuring software quality through **Manual Testing, API Testing, SQL, and Test Automation**.
+I am an aspiring **Software Quality Assurance (SQA) Engineer** with a strong interest in Manual Software Testing and Quality Assurance.
 
-I am currently building my practical skills through hands-on testing projects and continuously learning modern QA practices.
+I am building my practical testing skills through hands-on practice projects and documenting my work on GitHub.
 
----
+### 🔍 Testing Skills
 
-## 🧪 QA Skills
+* Manual Testing
+* Functional Testing
+* UI Testing
+* Regression Testing
+* Smoke Testing
+* Test Case Design
+* Bug Reporting
+* Severity & Priority Classification
+* Test Documentation
 
-- Manual Testing
-- Test Case Writing
-- Test Scenario Design
-- Bug Reporting
-- Functional Testing
-- Regression Testing
-- Smoke & Sanity Testing
-- API Testing
-- SQL & Database Testing
-- Test Documentation
+### 📋 My QA Portfolio
 
-## 🛠️ Tools & Technologies
+📁 **[Test Plan](./Test-Plan)**
+Documentation of testing objectives, scope, approach, and test strategy.
 
-- Postman
-- Jira
-- Git & GitHub
-- SQL
-- Selenium
-- Playwright
+📁 **[Test Cases](./Test-Cases)**
+Sample test cases covering different application functionalities.
 
-## 📂 QA Projects
+📁 **[Bug Reports](./Bug-Reports)**
+Sample defects documented with steps to reproduce, expected result, actual result, severity, and priority.
 
-### 🔹 Manual Testing Project
-Test cases, test scenarios, bug reports, and test documentation for a demo web application.
+### 🛠️ Tools & Technologies
 
-### 🔹 API Testing Project
-API testing using Postman with positive and negative test cases, response validation, and status-code verification.
+* Git & GitHub
+* Microsoft Excel
+* Jira *(Learning)*
+* Postman *(Learning)*
+* SQL *(Learning)*
 
-### 🔹 SQL Testing Project
-Database validation using SQL queries, including data verification, joins, null-value checks, and duplicate-data checks.
+### 🎯 Career Goal
 
-### 🔹 Test Automation Project
-Web UI automation using Selenium/Playwright with assertions and reusable test scripts.
+My goal is to start my career as a **Junior SQA Engineer / QA Engineer** and continue developing my skills in software testing, API testing, SQL, and test automation.
 
----
+### 📌 Portfolio Note
 
-## 🌱 Currently Learning
-
-- Advanced Manual Testing
-- API Testing
-- SQL for QA
-- Selenium / Playwright
-- Agile & Scrum
-- CI/CD Basics
-
-## 🎯 Career Goal
-
-To start my career as an **SQA Engineer** and contribute to delivering reliable, high-quality software while continuously improving my testing and automation skills.
-
-## 📫 Connect With Me
-
-- Email: **naharsharmin269@gmail.com**
+The projects in this repository are **practice/sample projects created for learning and portfolio purposes**. They do not represent professional work experience.
 
 ---
 
-⭐ Thank you for visiting my GitHub profile!
+⭐ Thank you for visiting my profile!
