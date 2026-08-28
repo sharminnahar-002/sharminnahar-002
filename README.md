@@ -1,50 +1,73 @@
 # Hi, I'm Sharmin Nahar 👋
 
-## 👩‍💻 Aspiring SQA Engineer
+### Aspiring Software QA Engineer
 
-I am an aspiring **Software Quality Assurance (SQA) Engineer** with a strong interest in Manual Software Testing and Quality Assurance.
+I'm an aspiring Software QA Engineer interested in ensuring software quality through **manual testing, API testing, SQL, and test automation**.
 
-I am building my practical testing skills through hands-on practice projects and documenting my work on GitHub.
-
-### 🔍 Testing Skills
-
-* Manual Testing
-* Functional Testing
-* UI Testing
-* Regression Testing
-* Smoke Testing
-* Test Case Design
-* Bug Reporting
-* Severity & Priority Classification
-* Test Documentation
-
-### 📋 My QA Portfolio
-
-📁 **[Test Plan](./Test-Plan)**
-Documentation of testing objectives, scope, approach, and test strategy.
-
-📁 **[Test Cases](./Test-Cases)**
-Sample test cases covering different application functionalities.
-
-📁 **[Bug Reports](./Bug-Reports)**
-Sample defects documented with steps to reproduce, expected result, actual result, severity, and priority.
-
-### 🛠️ Tools & Technologies
-
-* Git & GitHub
-* Microsoft Excel
-* Jira *(Learning)*
-* Postman *(Learning)*
-* SQL *(Learning)*
-
-### 🎯 Career Goal
-
-My goal is to start my career as a **Junior SQA Engineer / QA Engineer** and continue developing my skills in software testing, API testing, SQL, and test automation.
-
-### 📌 Portfolio Note
-
-The projects in this repository are **practice/sample projects created for learning and portfolio purposes**. They do not represent professional work experience.
+I am currently building my practical skills through hands-on testing projects and continuously learning modern QA practices.
 
 ---
 
-⭐ Thank you for visiting my profile!
+## 🧪 QA Skills
+
+* Manual Testing
+* Test Case Writing
+* Test Scenario Design
+* Bug Reporting
+* Functional Testing
+* Regression Testing
+* Smoke & Sanity Testing
+* API Testing
+* SQL & Database Testing
+* Test Documentation
+
+## 🛠️ Tools & Technologies
+
+* Postman
+* Jira
+* Git & GitHub
+* SQL
+* Selenium
+* Playwright
+
+## 📂 QA Projects
+
+### 🔹 Manual Testing Project
+
+Test cases, test scenarios, bug reports, and test documentation for a demo web application.
+
+### 🔹 API Testing Project
+
+API testing using Postman with positive and negative test cases, response validation, and status-code verification.
+
+### 🔹 SQL Testing Project
+
+Database validation using SQL queries, including data verification, joins, null-value checks, and duplicate-data checks.
+
+### 🔹 Test Automation Project
+
+Web UI automation using Selenium/Playwright with assertions and reusable test scripts.
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced Manual Testing
+* API Testing
+* SQL for QA
+* Selenium / Playwright
+* Agile & Scrum
+* CI/CD Basics
+
+## 🎯 Career Goal
+
+To start my career as an **SQA Engineer** and contribute to delivering reliable, high-quality software while continuously improving my testing and automation skills.
+
+## 📫 Connect With Me
+
+* LinkedIn: *Add your LinkedIn profile here*
+* Email: *naharsharmin269@gmail.com*
+
+---
+
+⭐ **Thank you for visiting my GitHub profile!**
