@@ -1,17 +1,68 @@
-<h1 align="center">Hi 👋, I'm sharmin</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+# Hi, I'm Sharmin Khatun 👋
 
-- 🔭 I’m currently working on **e commerce website**
+### Aspiring Software QA Engineer
 
-- 🌱 I’m currently learning **react**
+I'm an aspiring Software QA Engineer interested in ensuring software quality through **Manual Testing, API Testing, SQL, and Test Automation**.
 
-- 📫 How to reach me **naharsharmin269@gmail.com**
+I am currently building my practical skills through hands-on testing projects and continuously learning modern QA practices.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/sharmin nahar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sharmin nahar" height="30" width="40" /></a>
-<a href="https://instagram.com/sharmin_nahar29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sharmin_nahar29" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+## 🧪 QA Skills
+
+- Manual Testing
+- Test Case Writing
+- Test Scenario Design
+- Bug Reporting
+- Functional Testing
+- Regression Testing
+- Smoke & Sanity Testing
+- API Testing
+- SQL & Database Testing
+- Test Documentation
+
+## 🛠️ Tools & Technologies
+
+- Postman
+- Jira
+- Git & GitHub
+- SQL
+- Selenium
+- Playwright
+
+## 📂 QA Projects
+
+### 🔹 Manual Testing Project
+Test cases, test scenarios, bug reports, and test documentation for a demo web application.
+
+### 🔹 API Testing Project
+API testing using Postman with positive and negative test cases, response validation, and status-code verification.
+
+### 🔹 SQL Testing Project
+Database validation using SQL queries, including data verification, joins, null-value checks, and duplicate-data checks.
+
+### 🔹 Test Automation Project
+Web UI automation using Selenium/Playwright with assertions and reusable test scripts.
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Manual Testing
+- API Testing
+- SQL for QA
+- Selenium / Playwright
+- Agile & Scrum
+- CI/CD Basics
+
+## 🎯 Career Goal
+
+To start my career as an **SQA Engineer** and contribute to delivering reliable, high-quality software while continuously improving my testing and automation skills.
+
+## 📫 Connect With Me
+
+- Email: **naharsharmin269@gmail.com**
+
+---
+
+⭐ Thank you for visiting my GitHub profile!
